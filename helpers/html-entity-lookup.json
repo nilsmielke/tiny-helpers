@@ -1,0 +1,13 @@
+{
+  "name": "HTML Entity Lookup",
+  "desc": "Search for entity characters based on how they look.",
+  "url": "http://entity-lookup.leftlogic.com/",
+  "tags": [
+    "HTML",
+    "Misc"
+  ],
+  "maintainers": [
+    "remy"
+  ],
+  "addedAt": "2020-01-31"
+}

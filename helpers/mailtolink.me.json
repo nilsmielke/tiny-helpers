@@ -1,0 +1,14 @@
+{
+  "name": "mailtolink.me",
+  "desc": "A simple markup generator for mailto links that takes care of the formatting for you. Just fill out the email and copy your code.",
+  "url": "https://mailtolink.me/",
+  "tags": [
+    "Code",
+    "HTML",
+    "Misc"
+  ],
+  "maintainers": [
+    "mckeever02"
+  ],
+  "addedAt": "2020-01-31"
+}
